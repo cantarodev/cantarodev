@@ -185,9 +185,9 @@ If you want to know more about  do not hesitate to contact me.
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <div align="center">
 
-<a href="https://github.com/NicoFJCruz">
+<a href="https://github.com/cantarodev">
   <img src="https://github-readme-stats.vercel.app/api?username=NicoFJCruz&show_icons=true&theme=merko" margin-right="80px" height="250" width="450"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoFJCruz&show_icons=true&theme=merko" height="250" width="450"  alt="NicoFJCruz"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantarodev&show_icons=true&theme=merko" height="250" width="450"  alt="CantaroDev"/> -->
 </a>
 </div>
 <p align="center">
