@@ -11,7 +11,7 @@
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
-<h3> I'm a Fullstack Developer from Peru.</h3>
+<h3> I'm a Full Stack Developer from Peru.</h3>
 
 I am a graduate of <a href="https://fiis.unas.edu.pe/">Computer Science and Systems Engineering</a> from the <a href="https://portal.unas.edu.pe/">National Agrarian of the Jungle University</a>. I am currently about to finish the Coding Bootcamp at Plataforma 5, where I completed over 800 hours of intensive training while working on challenging projects.
 
