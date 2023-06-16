@@ -192,7 +192,7 @@ If you want to know more about  do not hesitate to contact me.
                 </td> 
                   <td align="center">                     
                         <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <a href="discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
+                        <a href="https://discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
                  </td>                                
             </tr>
           </table>
