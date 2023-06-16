@@ -190,6 +190,3 @@ If you want to know more about  do not hesitate to contact me.
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantarodev&show_icons=true&theme=merko" height="250" width="450"  alt="CantaroDev"/> -->
 </a>
 </div>
-<p align="center">
-  <img src="images/catcomputer.jpeg" width="300" alt="Descripción de la imagen">
-</p>
