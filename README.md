@@ -211,14 +211,17 @@ If you want to know more about  do not hesitate to contact me.
 <!-- Connect with me -->
 <div align="center">
     <h2 style="display: inline-block">Connect With Me🤝</h2>
+
 </div>
 
 <!--icons and links-->
 <p align="center">
+	<a href="https://github.com/cantarodev" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="50" width="50" /></a>
+	<a href="mailto:info@cantaro.dev" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/72f866f1-64e1-40d9-8870-f60c024e4dc3" alt="mail" height="50" width="50" /></a>
 	<a href="https://cantaro.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 	<a href="https://www.linkedin.com/in/cantarodev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 	<a href="https://www.facebook.com/profile.php?id=100083468259228" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"" alt="facebook" height="50" width="50" /></a>
-	<a href="https://wa.me/+51913523379" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/whatsapp/whatsapp-original.svg"" alt="facebook" height="50" width="50" /></a>
+	<a href="https://wa.me/+51913523379?text=Hello%20friend!" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/eb733ac1-800e-499c-a3f6-99f256458b2e" alt="whatsapp" height="50" width="50" /></a>
 	<a href="https://discord.gg/cantarodev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
