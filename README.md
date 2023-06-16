@@ -4,10 +4,6 @@
 
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhon!</h1>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=cantarodev&label=Profile%20views&color=0047AB&style=plastic?" alt="CantaroDev" height=25px, width=160px/> 
-</p>
-
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
 <h3> I'm a Fullstack Developer from Peru.</h3>
@@ -136,7 +132,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+# <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems
 <div align="center">
         <p align="center">
           <table>
@@ -146,7 +142,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Linux</b> </p>      
               </td>
 	      <td align="center">
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" width="60" height="60">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60">
                   <p> <b>Windows</b> </p>      
               </td>
             </tr>
@@ -171,42 +167,37 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60">
                   <p> <b>NPM</b> </p> 
               </td>
-            </tr>
-          </table>
-        </p>
-      </div>
-      
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlkMTViZGMwMjRjYmE5YzE4YTdiY2U4MGEwYjM5MTNjMTEwOWE5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/E6gIA4qsCpZeEaxY8G/giphy.gif" width="35"><b> Links </b>
-<div align="center">
-        <p align="center">
-          <table>
-            <tr>
-               <td align="center">
-                     <a href="https://cantaro.dev/" target="_blank"> 
-		     	<img src="https://www.maiaxia.com/wp-content/uploads/2023/01/tendencias-de-aprendizaje-2023-aprendizaje-basado-en-cohortes.gif" alt="Portfolio" width="70" height="70">
-		     </a>     
-                 </td> 
-               <td align="center">                    
-                  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="70" height="70">
-                  <a href="https://www.linkedin.com/in/cantarodev/" target="_blank"> <p> <b>LinkedIn Profile</b> </p> </a>              
-                </td> 
-                  <td align="center">                     
-                        <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <a href="https://discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a> 		
-                 </td>                                
+		<td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60">
+                  <p> <b>Arduino</b> </p> 
+              </td>
             </tr>
           </table>
         </p>
       </div>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<div align="center">
+<!--- stats -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cantarodev&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cantarodev&theme=dark&hide_border=false" /> 
+</td>
 
-<a href="https://github.com/cantarodev">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoFJCruz&show_icons=true&theme=merko" margin-right="80px" height="250" width="450"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantarodev&show_icons=true&theme=merko" height="250" width="450"  alt="CantaroDev"/> -->
-</a>
-</div>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cantarodev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</p>        
+<!--- stats (end) -->
 
 <!-- Connect with me -->
 <div align="center">
@@ -224,4 +215,17 @@ If you want to know more about  do not hesitate to contact me.
 	<a href="https://wa.me/+51913523379?text=Hello%20friend!" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/eb733ac1-800e-499c-a3f6-99f256458b2e" alt="whatsapp" height="50" width="50" /></a>
 	<a href="https://discord.gg/cantarodev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
+
+<!--profile visit count-->
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=cantarodev&label=Profile%20views&color=312E81&style=plastic?" alt="CantaroDev" height=25px, width=160px/> 
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [cantarodev](https://github.com/cantarodev)
+
+Last Edited on: 29/4/2023
 
