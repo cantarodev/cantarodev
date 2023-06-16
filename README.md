@@ -73,16 +73,8 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Redux</b> </p>                
               </td>
               <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Nextjs" width="60" height="60">
-                <p> <b>Nextjs</b> </p>
-              </td>
-              <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vuejs" width="60" height="60">
                 <p> <b>Vuejs</b> </p>
-              </td>
-              <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="MaterialUI" width="60" height="60">
-                <p> <b>MaterialUI</b> </p>
               </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
@@ -114,6 +106,10 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" alt="Sequelize" width="60" height="60">
                 <p> <b>Sequelize</b> </p>
               </td>
+	      <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="60" height="60">
+                <p> <b>Laravel</b> </p>
+              </td>
             </tr>
           </table>
         </p>
@@ -128,9 +124,31 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="60" height="60">
                   <p> <b>PostgreSQL</b> </p>      
               </td>
+	      <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="60" height="60">
+                  <p> <b>MySQL</b> </p>      
+              </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60">
                   <p> <b>SQLite</b> </p> 
+              </td>
+            </tr>
+          </table>
+        </p>
+      </div>
+
+## Operating Systems
+<div align="center">
+        <p align="center">
+          <table>
+            <tr>
+              <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60">
+                  <p> <b>Linux</b> </p>      
+              </td>
+	      <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/windows/mysql-plain.svg" alt="Windows" width="60" height="60">
+                  <p> <b>Windows</b> </p>      
               </td>
             </tr>
           </table>
