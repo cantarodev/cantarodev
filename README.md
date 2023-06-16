@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hello there 👋, I'm Jhon!</h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhon!</h1>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cantarodev&label=Profile%20views&color=0047AB&style=plastic?" alt="CantaroDev" height=25px, width=160px/> 
