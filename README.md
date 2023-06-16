@@ -137,7 +137,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-## Operating Systems
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 <div align="center">
         <p align="center">
           <table>
@@ -147,7 +147,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Linux</b> </p>      
               </td>
 	      <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/windows/mysql-plain.svg" alt="Windows" width="60" height="60">
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" width="60" height="60">
                   <p> <b>Windows</b> </p>      
               </td>
             </tr>
@@ -192,7 +192,7 @@ If you want to know more about  do not hesitate to contact me.
                 </td> 
                   <td align="center">                     
                         <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <a href="discordapp.com/users/cantarodev#6559" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
+                        <a href="discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
                  </td>                                
             </tr>
           </table>
