@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhon!</h1>
 
-# <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
+# <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> About me </b> 
 
 <h3> I'm a Fullstack Developer from Peru.</h3>
 
@@ -16,7 +16,7 @@ If you want to know more about  do not hesitate to contact me.
 
 # <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Tech Stack </b> 
 
-## Languages
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> Languages
    <div align="center">
         <p align="center">
           <table>
@@ -46,7 +46,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-## FrontEnd
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> FrontEnd
 <div align="center">
         <p align="center">
           <table>
@@ -132,7 +132,7 @@ If you want to know more about  do not hesitate to contact me.
         </p>
       </div>
 
-# <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems
 <div align="center">
         <p align="center">
           <table>
@@ -201,7 +201,7 @@ If you want to know more about  do not hesitate to contact me.
 
 <!-- Connect with me -->
 <div align="center">
-    <h2 style="display: inline-block">Connect With Me🤝</h2>
+    <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect With Me🤝</h2>
 
 </div>
 
