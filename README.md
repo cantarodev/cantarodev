@@ -1,4 +1,3 @@
-
 ![portada](https://github.com/cantarodev/cantarodev/assets/35185115/89ea34ec-f8e5-4d8e-a9f6-85b660d264e7)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -11,7 +10,7 @@
 
 # <img src="https://icon-library.com/images/person-icon-gif/person-icon-gif-1.jpg" width="35"><b> About me </b> 
 
-<h3> I'm a Full Stack Developer from Peru.</h3>
+<h3> I'm a Fullstack Developer from Peru.</h3>
 
 I am a graduate of <a href="https://fiis.unas.edu.pe/">Computer Science and Systems Engineering</a> from the <a href="https://portal.unas.edu.pe/">National Agrarian of the Jungle University</a>. I am currently about to finish the Coding Bootcamp at Plataforma 5, where I completed over 800 hours of intensive training while working on challenging projects.
 
@@ -183,8 +182,9 @@ If you want to know more about  do not hesitate to contact me.
           <table>
             <tr>
                <td align="center">
-                     <img src="https://www.maiaxia.com/wp-content/uploads/2023/01/tendencias-de-aprendizaje-2023-aprendizaje-basado-en-cohortes.gif" alt="Portfolio" width="70" height="70">
-                     <a href="https://cantaro.dev/" target="_blank"> <p> <b>My portfolio</b> </p> </a>     
+                     <a href="https://cantaro.dev/" target="_blank"> 
+		     	<img src="https://www.maiaxia.com/wp-content/uploads/2023/01/tendencias-de-aprendizaje-2023-aprendizaje-basado-en-cohortes.gif" alt="Portfolio" width="70" height="70">
+		     </a>     
                  </td> 
                <td align="center">                    
                   <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="70" height="70">
@@ -192,13 +192,12 @@ If you want to know more about  do not hesitate to contact me.
                 </td> 
                   <td align="center">                     
                         <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="Discord" width="70" height="70">
-                        <a href="https://discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a>                          
+                        <a href="https://discordapp.com/users/1083239289657249832" target="_blank"> <p> <b>Discord Profile</b> </p> </a> 		
                  </td>                                
             </tr>
           </table>
         </p>
       </div>
-
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <div align="center">
@@ -208,3 +207,18 @@ If you want to know more about  do not hesitate to contact me.
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantarodev&show_icons=true&theme=merko" height="250" width="450"  alt="CantaroDev"/> -->
 </a>
 </div>
+
+<!-- Connect with me -->
+<div align="center">
+    <h2 style="display: inline-block">Connect With Me🤝</h2>
+</div>
+
+<!--icons and links-->
+<p align="center">
+	<a href="https://cantaro.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+	<a href="https://www.linkedin.com/in/cantarodev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+	<a href="https://www.facebook.com/profile.php?id=100083468259228" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"" alt="facebook" height="50" width="50" /></a>
+	<a href="https://wa.me/+51913523379" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/whatsapp/whatsapp-original.svg"" alt="facebook" height="50" width="50" /></a>
+	<a href="https://discord.gg/cantarodev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
