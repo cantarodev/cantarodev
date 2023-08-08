@@ -1,4 +1,4 @@
-![portada](https://github.com/cantarodev/cantarodev/assets/35185115/7ae214f1-32b5-4e3e-9656-16a4d9d29d15)
+![portada](https://github.com/cantarodev/cantarodev/assets/35185115/381e45c9-c812-41fd-8160-b63b04e88ab4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
