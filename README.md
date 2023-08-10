@@ -185,15 +185,15 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Arduino</b> </p> 
               </td>
 		    <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma.svg" alt="figma" width="60" height="60">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/640px-Figma-1-logo.png" alt="figma" width="60" height="60">
                   <p> <b>Figma</b> </p> 
               </td>
 		    <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion.svg" alt="notion" width="60" height="60">
+                <img src="https://static-00.iconduck.com/assets.00/notion-icon-256x256-g1arps9e.png" alt="notion" width="60" height="60">
                   <p> <b>Notion</b> </p> 
               </td>
 		    <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello.svg" alt="trello" width="60" height="60">
+                <img src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" alt="trello" width="60" height="60">
                   <p> <b>Trello</b> </p> 
               </td>
             </tr>
