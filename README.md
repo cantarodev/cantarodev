@@ -96,11 +96,18 @@ If you want to know more about  do not hesitate to contact me.
               </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="60" height="60">
-                  <p> <b>Espress</b> </p> 
+                  <p> <b>Express</b> </p> 
               </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" alt="Sequelize" width="60" height="60">
                 <p> <b>Sequelize</b> </p>
+              </td>
+		    <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" alt="Sequelize" width="60" height="60">
+                <p> <b>Sequelize</b> </p>
+              </td><td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/mongoose.svg" alt="Mongoose" width="60" height="60">
+                <p> <b>Mongoose</b> </p>
               </td>
 	      <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="60" height="60">
@@ -116,6 +123,10 @@ If you want to know more about  do not hesitate to contact me.
         <p align="center">
           <table>
             <tr>
+		<td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/mongodb.svg" alt="MongoDB" width="60" height="60">
+                  <p> <b>MongoDB</b> </p>      
+              </td>
               <td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="60" height="60">
                   <p> <b>PostgreSQL</b> </p>      
