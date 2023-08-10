@@ -102,11 +102,8 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" alt="Sequelize" width="60" height="60">
                 <p> <b>Sequelize</b> </p>
               </td>
-		    <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" alt="Sequelize" width="60" height="60">
-                <p> <b>Sequelize</b> </p>
-              </td><td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/mongoose.svg" alt="Mongoose" width="60" height="60">
+	<td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose.svg" alt="Mongoose" width="60" height="60">
                 <p> <b>Mongoose</b> </p>
               </td>
 	      <td align="center">
