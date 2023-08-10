@@ -180,12 +180,16 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60">
                   <p> <b>NPM</b> </p> 
               </td>
+		    <td align="center">
+                <img src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" alt="cli" width="60" height="60">
+                  <p> <b>CLI</b> </p> 
+              </td>
 		<td align="center">
                 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60">
                   <p> <b>Arduino</b> </p> 
               </td>
 		    <td align="center">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Figma-1-logo.png/640px-Figma-1-logo.png" alt="figma" width="60" height="60">
+                <img src="https://cdn.iconscout.com/icon/free/png-256/free-figma-3628771-3030133.png" alt="figma" width="60" height="60">
                   <p> <b>Figma</b> </p> 
               </td>
 		    <td align="center">
