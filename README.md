@@ -125,7 +125,7 @@ If you want to know more about  do not hesitate to contact me.
           <table>
             <tr>
 		<td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/mongodb.svg" alt="MongoDB" width="60" height="60">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-leaf.svg" alt="MongoDB" width="60" height="60">
                   <p> <b>MongoDB</b> </p>      
               </td>
               <td align="center">
