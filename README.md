@@ -80,6 +80,10 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60">
                 <p> <b>TailwindCSS</b> </p>
               </td>
+		     <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui.svg" alt="MaterialUI" width="60" height="60">
+                <p> <b>MaterialUI</b> </p>
+              </td>
             </tr>
           </table>
         </p>
