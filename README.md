@@ -181,7 +181,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>NPM</b> </p> 
               </td>
 		    <td align="center">
-                <img src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" alt="cli" width="60" height="60">
+                <img src="https://developer.fedoraproject.org/static/logo/cli-app.png" alt="cli" width="60" height="60">
                   <p> <b>CLI</b> </p> 
               </td>
 		<td align="center">
