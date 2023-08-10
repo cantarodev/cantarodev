@@ -184,6 +184,18 @@ If you want to know more about  do not hesitate to contact me.
                 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60">
                   <p> <b>Arduino</b> </p> 
               </td>
+		    <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma.svg" alt="figma" width="60" height="60">
+                  <p> <b>Figma</b> </p> 
+              </td>
+		    <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion.svg" alt="notion" width="60" height="60">
+                  <p> <b>Notion</b> </p> 
+              </td>
+		    <td align="center">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello.svg" alt="trello" width="60" height="60">
+                  <p> <b>Trello</b> </p> 
+              </td>
             </tr>
           </table>
         </p>
