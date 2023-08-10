@@ -99,7 +99,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Node.js</b> </p>      
               </td>
               <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="60" height="60">
+                <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express" width="60" height="60">
                   <p> <b>Express</b> </p> 
               </td>
               <td align="center">
@@ -173,7 +173,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Git</b> </p>      
               </td>
               <td align="center">
-                <img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" alt="GitHub" width="60" height="60">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="GitHub" width="60" height="60">
                   <p> <b>GitHub</b> </p> 
               </td>
               <td align="center">
