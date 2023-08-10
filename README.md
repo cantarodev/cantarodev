@@ -107,7 +107,7 @@ If you want to know more about  do not hesitate to contact me.
                 <p> <b>Sequelize</b> </p>
               </td>
 	<td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose.svg" alt="Mongoose" width="60" height="60">
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" width="60" height="60">
                 <p> <b>Mongoose</b> </p>
               </td>
 	      <td align="center">
@@ -125,7 +125,7 @@ If you want to know more about  do not hesitate to contact me.
           <table>
             <tr>
 		<td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-leaf.svg" alt="MongoDB" width="60" height="60">
+                <img src="https://github.com/mongodb-js/leaf/blob/master/mongodb-leaf.svg" alt="MongoDB" width="60" height="60">
                   <p> <b>MongoDB</b> </p>      
               </td>
               <td align="center">
