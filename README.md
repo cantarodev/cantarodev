@@ -99,7 +99,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Node.js</b> </p>      
               </td>
               <td align="center">
-                <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express" width="60" height="60">
+                <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express" height="60">
                   <p> <b>Express</b> </p> 
               </td>
               <td align="center">
