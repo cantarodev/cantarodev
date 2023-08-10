@@ -173,7 +173,7 @@ If you want to know more about  do not hesitate to contact me.
                   <p> <b>Git</b> </p>      
               </td>
               <td align="center">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
+                <img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" alt="GitHub" width="60" height="60">
                   <p> <b>GitHub</b> </p> 
               </td>
               <td align="center">
