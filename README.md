@@ -15,9 +15,9 @@ Me considero proactivo, creativo y apasionado por la tecnología. Mi objetivo si
 
 Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cantaro.dev">portafolio</a>.
 
-# <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Tech Stack </b> 
+# <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Stack Tecnológico </b> 
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> Languages
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> Lenguajes de Programación
    <div align="center">
         <p align="center">
           <table>
@@ -119,7 +119,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
 
-## Data Base
+## Base de Datos
 <div align="center">
         <p align="center">
           <table>
@@ -145,7 +145,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Operating Systems
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> Sistemas Operativos
 <div align="center">
         <p align="center">
           <table>
@@ -163,7 +163,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
         
- ## Others
+ ## Otros
 <div align="center">
         <p align="center">
           <table>
@@ -205,7 +205,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas GitHub </b>
 <!--- stats -->
 <p align="center">
   <!--- stats (start) -->
