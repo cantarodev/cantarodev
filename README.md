@@ -89,7 +89,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
       
-  ## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0" width="50" /> Backend
+  ## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0" width=40px /> Backend
   <div align="center">
         <p align="center">
           <table>
@@ -119,7 +119,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
 
-## ![db](https://github.com/cantarodev/cantarodev/assets/35185115/3ecdbea8-3b5e-4fde-a8d0-d592a47387d0) Base de Datos
+## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/3ecdbea8-3b5e-4fde-a8d0-d592a47387d0" width=20px /> Base de Datos
 <div align="center">
         <p align="center">
           <table>
