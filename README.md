@@ -89,7 +89,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
       
-  ## ![6213731](https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0) Backend
+  ## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0" width="50" /> Backend
   <div align="center">
         <p align="center">
           <table>
