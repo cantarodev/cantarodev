@@ -230,7 +230,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
 
 <!-- Connect with me -->
 <div align="center">
-    <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Conectate conmigo With Me🤝</h2>
+    <h2 style="display: inline-block"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Conectate conmigo🤝</h2>
 
 </div>
 
