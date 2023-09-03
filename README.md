@@ -238,7 +238,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
 <p align="center">
 	<a href="https://github.com/cantarodev" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="50" width="50" /></a>
 	<a href="mailto:info@cantaro.dev" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/72f866f1-64e1-40d9-8870-f60c024e4dc3" alt="mail" height="50" width="50" /></a>
-	<a href="https://cantaro.dev/" target="blank"><img align="center" src="[https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png](https://github.com/cantarodev/cantarodev/assets/35185115/b9a2d640-7958-489f-880b-c695ec385ac5)" alt="hashnode" height="50" width="50" /></a>
+	<a href="https://cantaro.dev/" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/b9a2d640-7958-489f-880b-c695ec385ac5" alt="hashnode" height="50" width="50" /></a>
 	<a href="https://www.linkedin.com/in/cantarodev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 	<a href="https://www.facebook.com/profile.php?id=100083468259228" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"" alt="facebook" height="50" width="50" /></a>
 	<a href="https://wa.me/+51913523379?text=Hello%20friend!" target="blank"><img align="center" src="https://github.com/cantarodev/cantarodev/assets/35185115/eb733ac1-800e-499c-a3f6-99f256458b2e" alt="whatsapp" height="50" width="50" /></a>
