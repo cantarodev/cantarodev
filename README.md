@@ -7,7 +7,7 @@
 
 # <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> Acerca de mí </b> 
 
-<h3>Soy un Desarrollador Full Stack de Perú.</h3>
+<h3>Soy un Desarrollador Full Stack residente en Perú.</h3>
 
 Egresado en <a href="https://fiis.unas.edu.pe/">Ingeniería en Informática y Sistemas</a> de la <a href="https://portal.unas.edu.pe/">Universidad Nacional Agraria de la Selva</a>. También egresado como Full Stack Developer de <a href="https://www.plataforma5.la/bootcamp/javascript">Plataforma 5 - Conding Bootcamp</a>.
 
