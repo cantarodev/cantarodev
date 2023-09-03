@@ -7,13 +7,13 @@
 
 # <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> About me </b> 
 
-<h3> I'm a Fullstack Developer from Peru.</h3>
+<h3>Soy un Desarrollador Full Stack de Perú.</h3>
 
-I am a graduate of <a href="https://fiis.unas.edu.pe/">Computer Science and Systems Engineering</a> from the <a href="https://portal.unas.edu.pe/">National Agrarian of the Jungle University</a>. I am currently about to finish the Coding Bootcamp at Plataforma 5, where I completed over 800 hours of intensive training while working on challenging projects.
+Egresado en <a href="https://fiis.unas.edu.pe/">Ingeniería en Informática y Sistemas</a> de la <a href="https://portal.unas.edu.pe/">Universidad Nacional Agraria de la Selva</a>. También egresado como Full Stack Developer de <a href="https://www.plataforma5.la/bootcamp/javascript">Plataforma 5 - Conding Bootcamp</a>.
 
-I consider myself proactive, creative and passionate about technology. My objective is always to keep learning and advancing in the IT sector, and I am committed to offering innovative solutions all the challenges I face.
+Me considero proactivo, creativo y apasionado por la tecnología. Mi objetivo siempre es seguir aprendiendo y avanzando en el sector de la informática, y estoy comprometido en ofrecer soluciones innovadoras a todos los desafíos que enfrento.
 
-If you want to know more about  do not hesitate to contact me.
+Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cantaro.dev">portafolio</a>.
 
 # <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=6c09b95273ph4qc007uru0mjrt5xny6r76o3kj1b5vnvsxmk&ep=v1_stickers_related&rid=giphy.gif" width="35"><b> Tech Stack </b> 
 
