@@ -5,7 +5,7 @@
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Jhon!</h1>
 
-# <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b> Acerca de mí </b> 
+# <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = "50"> <b> Acerca de mí </b> 
 
 <h3>Soy un Desarrollador Full Stack residente en Perú.</h3>
 
@@ -89,7 +89,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
       
-  ## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0" width=40px /> Backend
+  ## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/8a74f04d-eed6-49c1-b0a1-a121a2c0f6f0" width="40" /> Backend
   <div align="center">
         <p align="center">
           <table>
