@@ -119,7 +119,7 @@ Si deseas saber más acerca de mí, no dudes en visitar mi <a href="https://cant
         </p>
       </div>
 
-## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/3ecdbea8-3b5e-4fde-a8d0-d592a47387d0" width=20px /> Base de Datos
+## <img src="https://github.com/cantarodev/cantarodev/assets/35185115/3ecdbea8-3b5e-4fde-a8d0-d592a47387d0" width=50px /> Base de Datos
 <div align="center">
         <p align="center">
           <table>
